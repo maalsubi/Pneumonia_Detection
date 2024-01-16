@@ -1,2 +1,3 @@
 # Pneumonia_Detection
-This repository contains a novel deep learning framework for pneumonia detection using the Chest X-Ray images 
+This repository contains a novel deep learning framework for pneumonia detection using the Chest X-Ray images. In this project, we harness the power of deep learning by constructing an ensemble of two best 
+pretrained models (VGG16 and Inception V3) to automate the detection of pneumonia in Chest X-rays. We delve into the design, development, and evaluation of the ensemble, examining various model architectures, data preprocessing techniques, and strategies for combining individual models. The project's main objectives include achieving high accuracy and efficiency in pneumonia detection. 
